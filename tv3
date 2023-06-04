@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="B站小新",B站小新
-https://cn-hbcd-cu-02-23.bilivideo.com/live-bvc/996807/live_415611_4082642/index.m3u8?expires=1685357847&len=0&oi=2099370150&pt=h5&qn=10000&trid=1007f532fe7fa9d04b8d9b890af1ac145f2c&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=27e7fc5bdc4bfff0f4c33cd46604733e&sk=7e244969144c2ede6802f5c4b24d5578&flvsk=a4628fb295118cf392195769de1ebfbe&p2p_type=0&sl=3&free_type=0&mid=0&sid=cn-hbcd-cu-02-23&chash=1&bmt=1&sche=ban&bvchls=1&score=14&pp=rtmp&source=onetier&trace=8a1&site=71eca343b2cf857e8d9a160f11688456&order=1
+https://cn-hbcd-cu-02-24.bilivideo.com/live-bvc/615482/live_415611_4082642_bluray/index.m3u8?expires=1685883340&len=0&oi=2071669729&pt=h5&qn=10000&trid=1007fa70e84221f247faa63503ec30ae8e67&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=1778836087500cdf206e23acdb457b19&sk=5bf07b9bbe6df2e0a6bc476fe3d9a64272675319e1bf242748fcda5ad9e12f7b&flvsk=4207df3de646838b084f14f252be3aff32e9f79d88eba2913a6cbca8199656ed&p2p_type=0&sl=3&free_type=0&mid=0&sid=cn-hbcd-cu-02-24&chash=1&sche=ban&bvchls=1&score=11&pp=rtmp&source=onetier&trace=8a0&site=77ba8d624e9ffbc6327086f8944ec7e0&order=1
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="[高清]央视",CCTV-1综合[高清]
 http://192.168.0.1:4000/rtp/239.3.1.129:8008
