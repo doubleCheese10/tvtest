@@ -66,7 +66,7 @@ http://43.143.141.229:33333/rtp/239.3.1.150:8064
 
 
 
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视;北京",BRTV北京卫视
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视北京",BRTV北京卫视
 
 http://43.143.141.229:33333/rtp/239.3.1.225:8000
 
@@ -102,7 +102,7 @@ http://43.143.141.229:33333/rtp/239.3.1.232:8000
 
 http://43.143.141.229:33333/rtp/239.3.1.233:8000
 
-#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="北京;少儿",BRTV卡酷少儿
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="北京",BRTV卡酷少儿
 
 http://43.143.141.229:33333/rtp/239.3.1.234:8000
 
@@ -274,7 +274,7 @@ http://43.143.141.229:33333/rtp/239.3.1.55:4120
 
 http://43.143.141.229:33333/rtp/239.3.1.56:4120
 
-#EXTINF:-1 tvg-id="103" tvg-name="IPTV少儿动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV少儿动画.png" group-title="北京IPTV;少儿",IPTV少儿动画
+#EXTINF:-1 tvg-id="103" tvg-name="IPTV少儿动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV少儿动画.png" group-title="北京IPTV",IPTV少儿动画
 
 http://43.143.141.229:33333/rtp/239.3.1.199:9000
 
@@ -294,11 +294,11 @@ http://43.143.141.229:33333/rtp/239.3.1.193:8012
 
 http://43.143.141.229:33333/rtp/239.3.1.195:9024
 
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="北京IPTV;少儿",金鹰卡通
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="北京IPTV",金鹰卡通
 
 http://43.143.141.229:33333/rtp/239.3.1.51:9252
 
-#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="北京IPTV;少儿",嘉佳卡通
+#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="北京IPTV",嘉佳卡通
 
 http://43.143.141.229:33333/rtp/239.3.1.147:9268
 
@@ -374,15 +374,15 @@ http://43.143.141.229:33333/rtp/239.3.1.77:4120
 
 http://43.143.141.229:33333/rtp/239.3.1.78:4120
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京IPTV;少儿",早教
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京IPTV",早教
 
 http://43.143.141.229:33333/rtp/239.3.1.79:4120
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京IPTV;少儿",动画
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京IPTV",动画
 
 http://43.143.141.229:33333/rtp/239.3.1.80:4120
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京IPTV;少儿",好学生
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京IPTV",好学生
 
 http://43.143.141.229:33333/rtp/239.3.1.81:4120
 
@@ -498,7 +498,7 @@ http://43.143.141.229:33333/rtp/239.3.1.64:8124
 
 http://43.143.141.229:33333/rtp/239.3.1.124:8128
 
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="[高清]央视;少儿",CCTV-14少儿[高清]
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="[高清]央视",CCTV-14少儿[高清]
 
 http://43.143.141.229:33333/rtp/239.3.1.65:8132
 
@@ -624,7 +624,7 @@ http://43.143.141.229:33333/rtp/239.3.1.117:8000
 
 
 
-#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="[高清]北京;少儿",BRTV卡酷动画[高清]
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="[高清]北京",BRTV卡酷动画[高清]
 
 http://43.143.141.229:33333/rtp/239.3.1.189:8000
 
@@ -666,7 +666,7 @@ http://43.143.141.229:33333/rtp/239.3.1.100:8001
 
 http://43.143.141.229:33333/rtp/239.3.1.95:8001
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="[高清]北京IPTV;少儿",北京IPTV淘Baby[高清]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="[高清]北京IPTV",北京IPTV淘Baby[高清]
 
 http://43.143.141.229:33333/rtp/239.3.1.238:8001
 
