@@ -74,6 +74,10 @@ http://43.143.141.229:33333/rtp/239.3.1.225:8000
 
 http://43.143.141.229:33333/rtp/239.3.1.226:8000
 
+#EXTINF:-1 tvg-id="1873" tvg-name="BRTV体育休闲" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BRTV体育休闲.png" group-title="北京",BRTV体育休闲
+
+http://123.120.0.158:4022/rtp/239.3.1.243:8000
+
 #EXTINF:-1 tvg-id="1874" tvg-name="BTV科教" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV科教.png" group-title="北京",BRTV科教
 
 http://43.143.141.229:33333/rtp/239.3.1.227:8000
