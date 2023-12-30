@@ -172,6 +172,10 @@ http://192.168.0.1:2095/rtp/239.3.1.158:8000
 
 http://192.168.0.1:2095/rtp/239.3.1.243:8000
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="[高清]北京IPTV",BRTV体育休闲[高清]
+
+http://192.168.0.1:2095/rtp/239.3.1.97:8001
+
 #EXTINF:-1 tvg-id="1872"  tvg-name="BRTV纪实科教"  tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV科教.png"  group-title="[高清]北京",BRTV纪实科教[高清]
 
 http://192.168.0.1:2095/rtp/239.3.1.115:8000
@@ -247,10 +251,6 @@ http://192.168.0.1:2095/rtp/239.3.1.251:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="[高清]北京IPTV",体育赛事[高清]
 
 http://192.168.0.1:2095/rtp/239.3.1.157:8176
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="[高清]北京IPTV",电影台[高清]
-
-http://192.168.0.1:2095/rtp/239.3.1.97:8001
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="[高清]北京IPTV",每日影院[高清]
 
